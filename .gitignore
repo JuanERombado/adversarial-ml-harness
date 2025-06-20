@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+
+# IDE / OS
+.vscode/
+.DS_Store
+
+# Generated outputs
+results/
+models/
